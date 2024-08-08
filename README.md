@@ -12,9 +12,9 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 ## Examples of Work
 <table>
   <tr>
-    <td>TGPTheGaiaProject Official Website<img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" width="100%"></td>
-    <td>Pomodoro-Pulse<img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" width="100%"></td>
-    <td>Cocktail Connoisseur<img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" width="100%"></td>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" width="100%"></td>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" width="100%"></td>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" width="100%"></td>
   </tr>
 </table>
 
