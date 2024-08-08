@@ -9,4 +9,6 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 * Node.js, Flask, PostgreSQL, Bootstrap
 
 ## Examples of Work
-
+<img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" width="30%" >
+<img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" width="30%" >
+<img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" width="30%" >
