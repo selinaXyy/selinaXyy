@@ -9,7 +9,7 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 * Node.js, Flask, PostgreSQL, Bootstrap
 
 ## Examples of Work
-<div style="width: 100%;">
+<div style="width: 100% !important;">
 <div style="display: inline; margin-left=auto; margin-right=auto;">
   <img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" style="width: 30%;" >
   <img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" style="width: 30%;" >
