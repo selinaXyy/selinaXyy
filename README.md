@@ -10,7 +10,7 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 
 ## Examples of Work
 <div style="width: 100%; display: flex; justify-content: space-between;">
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" style="width: 30%; margin: 0; padding: 0;" >
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" style="width: 30%; margin: 0; padding: 0;" >
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" style="width: 30%; margin: 0; padding: 0;" >
+  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" style="max-width: 30%; margin: 0; padding: 0;" >
+  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" style="max-width: 30%; margin: 0; padding: 0;" >
+  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" style="max-width: 30%; margin: 0; padding: 0;" >
 </div>
