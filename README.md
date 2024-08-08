@@ -7,3 +7,5 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 ## Skills & Technologies
 * C++, C#, Python, JavaScript, HTML, CSS
 * Node.js, Flask, PostgreSQL, Bootstrap
+
+## Examples of Work
