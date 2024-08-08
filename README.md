@@ -9,8 +9,11 @@ Hello! I'm Selina, an aspiring computer scientist specializing in software devel
 * Node.js, Flask, PostgreSQL, Bootstrap
 
 ## Examples of Work
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" style="width: 30%;" >
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" style="width: 30%;" >
-  <img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" style="width: 30%;" >
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/tgp.gif" width="100%"></td>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/pomodoro-pulse.gif" width="100%"></td>
+    <td><img src="https://github.com/selinaXyy/selinaXyy/blob/main/cocktail.gif" width="100%"></td>
+  </tr>
+</table>
+
