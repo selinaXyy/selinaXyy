@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><p style="width: auto;">Hello! I'm Selina, an aspiring computer scientist specializing in software development and artificial intelligence. My career is fueled by a passion for excellence, and I am dedicated to leveraging technology to create social impact. I thrive in collaborative environments and actively seek leadership roles to foster teamwork and success.</p></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinaXyy&layout=donut" ></td>
+    <td><p width="auto">Hello! I'm Selina, an aspiring computer scientist specializing in software development and artificial intelligence. My career is fueled by a passion for excellence, and I am dedicated to leveraging technology to create social impact. I thrive in collaborative environments and actively seek leadership roles to foster teamwork and success.</p></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinaXyy&layout=donut" width="30%" /></td>
   </tr>
 </table>
 
